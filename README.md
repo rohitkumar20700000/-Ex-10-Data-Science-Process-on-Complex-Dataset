@@ -2,13 +2,13 @@
 
 ## AIM :
 
-To Perform Bivariate/Multivariate Analysis.
+To Perform Bivariate/Multivariate Analysis
 
 ## DATE:
 
-GITHUB LINK:https://github.com/Hariharan5354/EX-10-Data-Science-process-on-Complex-Dataset.git
+GITHUB LINK:
 
-COLAB LINK:https://colab.research.google.com/drive/1NVXuiyaSNIa2AyA1-P9UxAfYcm096ZPl?usp=sharing
+COLAB LINK:https://colab.research.google.com/drive/1oQDEzcITuq1NPYrY8Jo5-L8RoPqWIpM1#scrollTo=rh_zgb6vIQ_-
 
 ## ALGORITHM :
 
@@ -22,7 +22,7 @@ COLAB LINK:https://colab.research.google.com/drive/1NVXuiyaSNIa2AyA1-P9UxAfYcm09
 
 ## PROGRAM :
 
-Developed by: Rohit Kumar.M
+Developed by: Rohit kumar.M
 Reg no: 212221220045
 
 import pandas as pd
@@ -49,17 +49,17 @@ print(dd)
 
 sns.scatterplot (dd['Date_of_Journey'],dd['Dep_Time'])
 
-![image]
+![image](https://user-images.githubusercontent.com/119560261/229037607-1573e69c-5e28-4c9a-8b52-cef0b38a9be7.png)
 
 ### (ii) Numerical & Categorical
 
 sns.barplot (x=dd['Duration'],y=dd['Price'])
 
-![image]
+![image](https://user-images.githubusercontent.com/119560261/229037776-97b0e5a9-6bb2-4718-a9b7-4de3202fa226.png)
 
 sns.barplot(x=dd["Arrival_Time"],y=dd["Price"],data=dd)
 
-![image]
+![image](https://user-images.githubusercontent.com/119560261/229037892-1d807fbb-e11a-4a11-9582-ba386b267331.png)
 
 states=dd.loc[:,["Duration","Price"]]
 
@@ -75,7 +75,7 @@ plt.ylabel=("Price")
 
 plt.show()
 
-![image]
+![image](https://user-images.githubusercontent.com/119560261/229037987-b681d332-1d02-44d5-854e-6b1cb824f073.png)
 
 ## Multivariate Analysis :
 
@@ -91,7 +91,7 @@ hm = sns.heatmap(data = data)
 
 plt.show()
 
-![image]
+![image](https://user-images.githubusercontent.com/119560261/229038165-2ce3fc02-0ba4-4e37-a3b6-14f0c16b9bf8.png)
 
 ## RESULT:
 
