@@ -2,7 +2,7 @@
 
 ## AIM :
 
-To Perform Bivariate/Multivariate Analysis
+To Perform Bivariate/Multivariate Analysis.
 
 ## DATE:
 
