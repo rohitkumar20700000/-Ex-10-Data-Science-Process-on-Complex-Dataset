@@ -1,8 +1,8 @@
-# Flight information -analysis
+# EXP 10 - DATA SCIENCE PROCESS ON COMPLEX DATA SET
 
 ## AIM :
 
-To Perform Bivariate/Multivariate Analysis
+To Perform perform data science process ona complex dataset and save the data to a file
 
 ## DATE:
 
