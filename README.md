@@ -95,9 +95,6 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/119560261/229038165-2ce3fc02-0ba4-4e37-a3b6-14f0c16b9bf8.png)
 
-![image](vv1.png)
-
-![image](vv2.png)
 
 ![image](https://github.com/KATHIR1611/Ex-10-Data-Process/blob/main/vv%203.png)
 
